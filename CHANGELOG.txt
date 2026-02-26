@@ -1,1 +1,1 @@
-Version 1.0 initialized on 26/2/26
+On 26/2/26 2 new features added to README.txt
